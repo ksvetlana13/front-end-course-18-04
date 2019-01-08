@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Gotham-Black;
+    src: url(../fonts/Gotham-Black.otf);
+}
+
+@font-face {
+    font-family: Gotham-Thin;
+    src: url(../fonts/Gotham-Thin.otf);
+}
+
+@font-face {
+    font-family: Gotham-Bold;
+    src: url(../fonts/Gotham-Bold.otf);
+}
+
+@font-face {
+    font-family: Open-Sans;
+    src: url(../fonts/Open-Sans.ttf);
+}
+
+@font-face {
+    font-family: Robot-Thin;
+    src: url(../fonts/Roboto-Thin.ttf);
+}
+
+@font-face {
+    font-family: Robot-Medium;
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: Robot-Light;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+
+.got-black {
+    font-family: Gotham-Black;
+}
+
+.got-thin {
+    font-family: Gotham-Thin;
+}
+
+.got-bold {
+    font-family: Gotham-Bold;
+}
+
+.open-sans {
+	font-family: Open-Sans;
+}
+
+.rob-thin {
+    font-family: Robot-Thin;
+}
+
+.rob-medium {
+	font-family: Robot-Medium;
+}
+
+.rob-light {
+	font-family: Robot-Light;
+}
